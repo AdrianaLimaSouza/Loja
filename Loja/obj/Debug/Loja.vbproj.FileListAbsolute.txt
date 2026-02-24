@@ -1,0 +1,12 @@
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\bin\Debug\Loja.exe.config
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\bin\Debug\Loja.exe
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\bin\Debug\Loja.pdb
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\bin\Debug\Loja.xml
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.vbproj.AssemblyReference.cache
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.Form1.resources
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.Resources.resources
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.vbproj.GenerateResource.cache
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.vbproj.CoreCompileInputs.cache
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.exe
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.xml
+C:\Users\didal\Documents\L-FRAL - 25069 - Programador_de_informatica\UFCD3934_VBNet_Kundan\Loja\Loja\obj\Debug\Loja.pdb

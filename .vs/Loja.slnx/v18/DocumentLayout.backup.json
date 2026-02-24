@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\didal\\Documents\\L-FRAL - 25069 - Programador_de_informatica\\UFCD3934_VBNet_Kundan\\Loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7214FBC-DA68-499C-B6A1-4FA132E84454}|Loja\\Loja.vbproj|c:\\users\\didal\\documents\\l-fral - 25069 - programador_de_informatica\\ufcd3934_vbnet_kundan\\loja\\loja\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D7214FBC-DA68-499C-B6A1-4FA132E84454}|Loja\\Loja.vbproj|solutionrelative:loja\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7214FBC-DA68-499C-B6A1-4FA132E84454}|Loja\\Loja.vbproj|C:\\Users\\didal\\Documents\\L-FRAL - 25069 - Programador_de_informatica\\UFCD3934_VBNet_Kundan\\Loja\\loja\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D7214FBC-DA68-499C-B6A1-4FA132E84454}|Loja\\Loja.vbproj|solutionrelative:loja\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Loja/True/SqlTable/dbo.Produtos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 651,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Produtos.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Loja/True/SqlTable/dbo.Produtos.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Loja/True/SqlTable/dbo.Produtos.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-03T08:32:47.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\didal\\Documents\\L-FRAL - 25069 - Programador_de_informatica\\UFCD3934_VBNet_Kundan\\Loja\\Loja\\Form1.vb",
+              "RelativeDocumentMoniker": "Loja\\Form1.vb",
+              "ToolTip": "C:\\Users\\didal\\Documents\\L-FRAL - 25069 - Programador_de_informatica\\UFCD3934_VBNet_Kundan\\Loja\\Loja\\Form1.vb",
+              "RelativeToolTip": "Loja\\Form1.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwGUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-29T10:20:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\didal\\Documents\\L-FRAL - 25069 - Programador_de_informatica\\UFCD3934_VBNet_Kundan\\Loja\\Loja\\Form1.vb",
+              "RelativeDocumentMoniker": "Loja\\Form1.vb",
+              "ToolTip": "C:\\Users\\didal\\Documents\\L-FRAL - 25069 - Programador_de_informatica\\UFCD3934_VBNet_Kundan\\Loja\\Loja\\Form1.vb [Design]",
+              "RelativeToolTip": "Loja\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-29T09:27:03.051Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
